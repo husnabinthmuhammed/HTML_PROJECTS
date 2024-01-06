@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("download.jpg");
+    background-repeat: no-repeat;
+    background-size: 1350px 750px ;
+}
+div{
+    background-color: aqua;
+    background-image: url("download (1).jpg");
+    width: 350px;
+    border: 10px double brown;
+    border-radius: 50px;
+    padding: 40px;
+    margin: 100px;
+    font-family:sans-serif;
+
+
+
+}
+i{
+    position: static;
+}

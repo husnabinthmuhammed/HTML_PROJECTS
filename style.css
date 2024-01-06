@@ -1,0 +1,64 @@
+.whole{
+    display: flex;
+    align-items:center ;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+.box{
+    border: 1px solid black;
+    width: 45%;
+    padding-left: 10px;
+    background-color: rgb(151, 190, 119);
+}
+
+.container{
+display: flex;
+
+}
+.container2{
+display: flex;
+
+}
+.container3{
+display: flex;
+gap: 10px;
+}
+.container4{
+display: flex;
+gap:85px;
+}
+.container5>input{
+    width:91%;
+}
+.container6{
+    display: flex;
+    gap: 124px;
+    }
+/* .container4 >h3{
+padding: 6px;
+gap: 20px;
+
+} */
+.container >input{
+margin: 2px;
+padding: 4px;
+}
+.container >label{
+padding-left: 67px; 
+}
+.container2>select{
+display: flex;
+padding-inline: 12px
+}
+.container2 >label{
+padding-left: 19px; 
+}
+.container3 >label{
+padding-left: 79px; 
+}
+.container3>input{
+    width: 43%;
+}
+#genders{
+margin-left: 61px;
+}
